@@ -1,2 +1,2 @@
-# sorteador-de-cores
+# Tier-list
 Atividade de programação front-end
